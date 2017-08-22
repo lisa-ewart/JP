@@ -1,6 +1,6 @@
 $(function(){
   var questions = [
-    { value: 'Who is Jeff Peterson?', data: 'There is no objective answer to this question.  Although we pride ourselves with the wealth of information our site provides, we choose to refrain from speculation or subjective perspectives.  There is strong evidence to support the claim that Jeff is a nice guy.' },
+    { value: 'Who is Jeff Peterson?', data: 'There is no objective answer to this question.  Although we pride ourselves with the wealth of information that our site provides, we choose to refrain from speculation or subjective perspectives. Many say he is a "nice guy."  Our sources are verifying this claim.' },
     { value: 'Why do people gamble?', data: 'People might gamble to escape problems; some gamble for a high.' },
     { value: 'Will Trump resign before 2020?', data: 'Garantizado, amigos!' },
     { value: 'Why do gamblers fantasize about owning $250.00 shoes?', data: 'Research is ongoing.  Preliminary findings suggest that gamblers want reliable shoes for their frequent running away from collectors.' },
