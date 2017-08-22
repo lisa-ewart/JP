@@ -10,7 +10,7 @@ $(function(){
     { value: 'What is the fastest way to becoming a millionaire?', data: 'Place bets with Jeff Peterson.' },
     { value: 'How do I give someone the illusion that they are funny when they are not?', data: 'Think of something really funny from your past when that person attempts to be funny.  This should help render a laugh.' },
     { value: 'What can I buy with $250.00?', data: 'Many things that are not paint.' },
-    { value: 'Do I need to worry about collecting a debt after winning a bet?', data: 'Usually not.  However, if the debtor leaves the state or country within a day or two after realizing their foolish mistake, you might face challengs.' },
+    { value: 'Do I need to worry about collecting a debt after winning a bet?', data: 'Usually not.  However, if the debtor leaves the state or country within a day or two after realizing their foolish mistake, you might face challenges.' },
     { value: 'Does eating salmon impair judgement?', data: 'For most, consuming salmon does not impair cognition.  There are outliers whose lives have been destroyed by ingesting salmon.  NIH is currently looking at the correlation between salmon consumption and debt.' },
     { value: 'Where will Scott Baio be when Trump resigns?', data: 'He will be at his weekly appointment with unemployment, as he has since the 80s.' },
     { value: 'How can I become wealthy as an actress if I only have high school drama training from a pedophile?', data: 'See the answer to the question "What is the fastest way to becoming a millionaire?"' },
